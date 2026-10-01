@@ -1,0 +1,11 @@
+Invoice No,Date,Time,Customer Name,Customer Phone,Product Code,Product Name,Qty,MRP,Discount %,Final Price,Line Total,Payment Mode
+INV-1001,19-07-2026,"12:57:51 PM",poojan,,P001,"Parle-G Biscuit 100g",1,10,0,10,10,COD
+INV-1002,19-07-2026,"12:58:25 PM",poojan,,P001,"Parle-G Biscuit 100g",1,10,0,10,10,Online
+INV-1003,19-07-2026,"01:01:49 PM",poojan,,P001,"Parle-G Biscuit 100g",1,10,0,10,10,Online
+INV-1004,19-07-2026,"01:42:18 PM",poo,,P002,"Colgate Toothpaste 100g",1,55,10,49.5,49.5,Online
+INV-1005,19-07-2026,"03:25:00 PM",poojan,,P001,"Parle-G Biscuit 100g",1,10,0,10,10,Online
+INV-1006,19-07-2026,"03:27:43 PM",poojan,,P001,"Parle-G Biscuit 100g",1,10,0,10,10,Online
+INV-1007,19-07-2026,"03:29:18 PM",poojan,,P001,"Parle-G Biscuit 100g",1,10,0,10,10,Online
+INV-1008,19-07-2026,"04:40:08 PM",Poojan,,P001,"Parle-G Biscuit 100g",1,10,0,10,10,COD
+INV-1009,19-07-2026,"05:01:24 PM",poojan,,P006,"Grand Thieft Auto 6",1,6500,10,5850,5850,COD
+INV-1010,23-07-2026,"10:26:56 AM",poojan,,P001,"Detroit Become Human",1,400,50,200,200,COD

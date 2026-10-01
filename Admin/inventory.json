@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "code": "P006",
+            "barcode": "",
+            "name": "Grand Thieft Auto 6",
+            "mrp": 6500,
+            "discount": 10,
+            "final_price": 5850,
+            "quantity": 999,
+            "photo": "img\/products\/P006.jpg"
+        },
+        {
+            "code": "P001",
+            "barcode": "",
+            "name": "Detroit Become Human",
+            "mrp": 400,
+            "discount": 50,
+            "final_price": 200,
+            "quantity": 99,
+            "photo": "img\/products\/P001.jpg"
+        },
+        {
+            "code": "P002",
+            "barcode": "",
+            "name": "The Walking Dead: Complete Edition",
+            "mrp": 999,
+            "discount": 0,
+            "final_price": 999,
+            "quantity": 100,
+            "photo": "img\/products\/P002.jpg"
+        },
+        {
+            "code": "P003",
+            "barcode": "",
+            "name": "Uncharted: Legacy of Thief's Collection",
+            "mrp": 2999,
+            "discount": 18,
+            "final_price": 2459.18,
+            "quantity": 500,
+            "photo": "img\/products\/P003.jpg"
+        },
+        {
+            "code": "P004",
+            "barcode": "",
+            "name": "Resident Evil 2: Remake",
+            "mrp": 1999,
+            "discount": 20,
+            "final_price": 1599.2,
+            "quantity": 600,
+            "photo": "img\/products\/P004.jpg"
+        },
+        {
+            "code": "P005",
+            "barcode": "",
+            "name": "Grand Thieft Auto 5",
+            "mrp": 4999,
+            "discount": 80,
+            "final_price": 999.8,
+            "quantity": 800,
+            "photo": "img\/products\/P005.jpg"
+        },
+        {
+            "code": "P007",
+            "barcode": "",
+            "name": "The Last of us: Part 1",
+            "mrp": 5000,
+            "discount": 30,
+            "final_price": 3500,
+            "quantity": 300,
+            "photo": "img\/products\/P007.jpg"
+        }
+    ]
+}
